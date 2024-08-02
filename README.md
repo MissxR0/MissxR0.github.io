@@ -1,12 +1,16 @@
 # M1ssxR0's Blog 💀
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+
+> https://xro.github.io 
+
+## 👩‍💻 Descripción
+
 <em><b>Blog personal. Publico cosas me parecen interesantes o puedan servirle a alguien :D</em></b>
 
 <img alt="Página de inico de mi blog" src="https://i.imgur.com/BSutljh.png" width="800px">
 
-## 🌐 Página Web
-
-- https://xro.github.io 
 
 ## 👾 Contacto
 
