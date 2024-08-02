@@ -3,34 +3,12 @@ layout: ../layouts/AboutLayout.astro
 title: "¿Quién soy?"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Conocimientos
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+Soy xRo, aunque mi nombre real es Rocío. Soy nueva y no tengo mucha experiencia, pero me gustaría poder ayudar a otras personas que, como a mi, les gusta romper, cacharrear y sobretodo, aprender.<br><br>
+En mi blog puedes encontrar contenido relacionado con la administración de sistemas operativos (<strong class="important-text">en especial linux :D</strong>), la ciberseguridad, hacking ético, redes...
 
 ## Contacto
 
-Here are certain features of this site.
+Quien quiera escribirme puede hacerlo sin ningún tipo de problema, ¡estoy abierta a todo! (Incluso si buscas +1 para completar el stack de valorant xD)
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- [Discord](https://discordapp.com/users/294874107177205761)
+- [Email](mailto:roplay112@gmail.com)

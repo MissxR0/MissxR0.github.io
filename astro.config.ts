@@ -9,7 +9,7 @@ import { SITE } from "./src/config";
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
-  base: 'https://github.com/MissxR0/MissxR0.github.io',
+// base: 'https://github.com/MissxR0/MissxR0.github.io',
   integrations: [
     tailwind({
       applyBaseStyles: false,
