@@ -87,7 +87,7 @@ export default function SearchBar({ searchList }: Props) {
         border-opacity-40 bg-skin-fill py-3 pl-10
         pr-3 placeholder:italic placeholder:text-opacity-75 
         focus:border-skin-accent focus:outline-none"
-          placeholder="Search for anything..."
+          placeholder="Busca lo que quieras..."
           type="text"
           name="search"
           value={inputVal}
@@ -99,14 +99,23 @@ export default function SearchBar({ searchList }: Props) {
       </label>
 
       {inputVal.length > 1 && (
-        <div className="mt-8">
-          Found {searchResults?.length}
-          {searchResults?.length && searchResults?.length === 1
-            ? " result"
-            : " results"}{" "}
-          for '{inputVal}'
-        </div>
-      )}
+  <div className="mt-8">
+    {searchResults?.length === 0 ? (
+      <div>
+        No hay resultados para '{inputVal}' (T.T)
+      </div>
+    ) : (
+      <div>
+        Hay {searchResults?.length}
+        {searchResults?.length === 1
+          ? " resultado"
+          : " resultados"}{" "}
+        para '{inputVal}'
+      </div>
+    )}
+  </div>
+)}
+
 
       <ul>
         {searchResults &&
