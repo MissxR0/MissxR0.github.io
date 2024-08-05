@@ -9,7 +9,7 @@
 
 <em><b>Blog personal. Publico cosas me parecen interesantes o puedan servirle a alguien :D</em></b>
 
-<img alt="Página de inico de mi blog" src="https://i.imgur.com/BSutljh.png" width="800px">
+<img alt="Página de inico de mi blog" src="https://i.imgur.com/x9jVATZ.png" width="800px">
 
 
 ## 👾 Contacto
